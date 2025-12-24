@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharvari6599
+- 👋 Hi, I’m Sharwari
 - 👀 I’m interested in software development, data engineering
 - 🌱 I’m currently studying Master's in Computer Science at SUNY Binghamton 
 - 📫 How to reach me- [Linkedin] (https://www.linkedin.com/in/sharwari-ambegaonkar-4425171b3/)
